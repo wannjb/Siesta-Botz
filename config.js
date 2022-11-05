@@ -48,15 +48,20 @@ global.sdc = 'https://wa.me/62895327999292'
 global.snh = 'https://youtube.com/channel/Siesta Botz'
 
 /*============== PAYMENT ==============*/
-global.pdana = '0895327999292'
-global.povo = '0895327999292'
-global.pgopay = '089518377899'
+global.pdana = '0895327999292' //dana
+global.povo = '0895327999292' //ovo
+global.pgopay = '089518377899' //gopay
+global.plinkaja = '0895327999292' //link aja
+global.ppulsa = '0895327999292' //telkomsel
+global.ppulsa2 = '0895327999292' // kalau ada kartu lain isi aja
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62895327999292'
 global.nomorown = '62895327999292'
 global.namebot = 'WannTrue Bot'
 global.nameown = 'WannTrue'
+global.nomorwa = '0'
 
 
 /*============== STAFF ==============*/
@@ -64,7 +69,7 @@ global.owner = [
   ['62895327999292'],
   ['62895327999292'],
   ['62895327999292'],
-  ['62895327999292', 'Kanna Chan', true]
+  ['62895327999292', 'WannTrue', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
